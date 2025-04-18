@@ -6,7 +6,7 @@ The assistant uses OpenAI's GPT-4o model to help you write emails.
 ## How to use
 
 ```
-git clone https://github.com/igorbenav/email-assistant-api.git
+git clone https://github.com/alec-hoyland/email-assistant
 cd email-assistant-api
 uv install
 ```
